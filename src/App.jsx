@@ -1,6 +1,6 @@
 import userData from "./userData.json";
 import Profile from "./components/Profile/Profile";
-import "./App.css"; // Якщо потрібно
+import "./App.css"; 
 
 function App() {
   return (
